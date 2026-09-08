@@ -1,0 +1,111 @@
+{
+  "complexes": [
+    {
+      "id": 1,
+      "name": "e편한세상 반월 나노시티역",
+      "rank": 1,
+      "target_min": 77000,
+      "target_max": 80000,
+      "ceiling": 85000,
+      "status": "HOLDING",
+      "desc": "가장 균형 좋음 (2017년식 / 1,387세대)"
+    },
+    {
+      "id": 2,
+      "name": "능동역센트럴경남아너스빌",
+      "rank": 2,
+      "target_min": 76000,
+      "target_max": 78000,
+      "ceiling": 80000,
+      "status": "HOLDING",
+      "desc": "가격 메리트 시 강력 (2008년식 / 641세대)"
+    },
+    {
+      "id": 3,
+      "name": "동탄예당마을푸르지오",
+      "rank": 3,
+      "target_min": 75000,
+      "target_max": 80000,
+      "ceiling": 85000,
+      "status": "HOLDING",
+      "desc": "올수리 프리미엄 반영 필요 (2008년식 / 914세대)"
+    },
+    {
+      "id": 4,
+      "name": "동탄예당마을롯데캐슬",
+      "rank": 4,
+      "target_min": 85000,
+      "target_max": 87000,
+      "ceiling": 90000,
+      "status": "HOLDING",
+      "desc": "예당 핵심 입지 (2008년식 / 1,222세대)"
+    },
+    {
+      "id": 5,
+      "name": "동탄역 에일린의뜰",
+      "rank": 5,
+      "target_min": 75000,
+      "target_max": 80000,
+      "ceiling": 82000,
+      "status": "HOLDING",
+      "desc": "동탄역 생활권 준신축 (2016년식 / 489세대)"
+    },
+    {
+      "id": 100,
+      "name": "광교 상급지 목표 단지",
+      "rank": 0,
+      "target_min": 130000,
+      "target_max": 140000,
+      "ceiling": 150000,
+      "status": "TARGET",
+      "desc": "3~5년 후 최종 갈아타기 목표 단지"
+    }
+  ],
+  "listings": [
+    {
+      "id": 1,
+      "complex_id": 2,
+      "building": "802동",
+      "floor": "10층",
+      "price": 78000,
+      "date": "2026-03-08",
+      "memo": "집주인 거주 / 관리 상태 양호. 7.6억 네고 시 매수"
+    },
+    {
+      "id": 2,
+      "complex_id": 2,
+      "building": "809동",
+      "floor": "12층",
+      "price": 83000,
+      "date": "2026-03-08",
+      "memo": "풀수리(확장, 샷시, 에어컨). 8.0억 이하 네고 필요"
+    },
+    {
+      "id": 3,
+      "complex_id": 3,
+      "building": "푸르지오 올수리",
+      "floor": "중층",
+      "price": 89000,
+      "date": "2026-03-08",
+      "memo": "6~7천 들여 올수리. 8.9억은 거절, 8.2억 이하 대기"
+    },
+    {
+      "id": 4,
+      "complex_id": 4,
+      "building": "롯데캐슬 중층",
+      "floor": "중층",
+      "price": 92000,
+      "date": "2026-03-08",
+      "memo": "KB일반가 8.85억 대비 높음. 추격매수 금지"
+    },
+    {
+      "id": 5,
+      "complex_id": 1,
+      "building": "e편한 중층",
+      "floor": "중층",
+      "price": 85000,
+      "date": "2026-03-08",
+      "memo": "최근 호가 8.5~10억 상승. 7.7~8.0억 조정 시까지 대기"
+    }
+  ]
+}
